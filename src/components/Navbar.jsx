@@ -24,7 +24,7 @@ function Navbar() {
 </svg>
 {/* nav//links */}
   </div>
-  <div className='flex justify-between items-center w-[50%] bg-green-400 h-[70px]'>
+  <div className='flex justify-between items-center w-[50%] bg-slate-400 h-[70px]'>
     <ul className='flex text-white gap-[50px]'>
     <li className='cursor-pointer p-2 hover:text-black rounded-sm hover:bg-slate-600'>Products</li>
     <li className='cursor-pointer p-2 hover:text-black rounded-sm hover:bg-slate-400'>Solutions</li>
