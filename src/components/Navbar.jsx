@@ -25,11 +25,11 @@ function Navbar() {
 {/* nav//links */}
   </div>
   <div className='flex justify-between items-center w-[50%] h-[70px] '>
-    <ul className='flex text-white gap-[50px]'>
-    <li className='cursor-pointer p-2 hover:text-black rounded-sm hover:bg-slate-600'>Products</li>
-    <li className='cursor-pointer p-2 hover:text-black rounded-sm hover:bg-slate-400'>Solutions</li>
-    <li className='cursor-pointer p-2 hover:text-black rounded-sm hover:bg-slate-400'>Sources</li>
-    <li className='cursor-pointer p-2 hover:text-black rounded-sm hover:bg-slate-400'>Pricing</li>
+    <ul className='flex text-[#FFE492] gap-[50px]'>
+    <li className='cursor-pointer p-2 hover:text-black rounded-sm hover:bg-white'>Products</li>
+    <li className='cursor-pointer p-2 hover:text-black rounded-sm hover:bg-white'>Solutions</li>
+    <li className='cursor-pointer p-2 hover:text-black rounded-sm hover:bg-white'>Sources</li>
+    <li className='cursor-pointer p-2 hover:text-black rounded-sm hover:bg-white'>Pricing</li>
     
     </ul>
     <ul><li className='cursor-pointer bg-[#FFE492] hover:bg-white py-2 px-4 rounded-sm border-2'>Log in</li></ul>
